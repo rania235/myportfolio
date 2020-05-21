@@ -18,14 +18,13 @@
 	color: black;
 }
 .Wrapp {
-	color: blue;
+	color: rgba(104, 104, 175, 0.904);
+}
+.desc{
+	color: #222629;
 }
 
 
-.row{
-	background-color:grey;
-	
-}
 
 
 
